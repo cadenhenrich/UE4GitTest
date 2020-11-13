@@ -833,3 +833,16 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.13-04.16.11:400][ 46]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 3
 [2020.11.13-04.17.51:936][396]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 3
 [2020.11.13-04.17.53:574][485]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 3
+[2020.11.13-04.18.58:873][660]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 3
+[2020.11.13-04.19.00:890][782]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 3
+[2020.11.13-04.19.23:387][933]LogEditorBookmarks: Warning: FBookmarkTypeToolsImpl::JumpToBookmark - Null Bookmark at index 3
+[2020.11.13-04.19.26:998][279]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube8)
+[2020.11.13-04.19.28:495][392]Cmd: EDIT COPY
+[2020.11.13-04.19.28:809][424]Cmd: EDIT PASTE
+[2020.11.13-04.19.46:455][425]LogSlate: Took 0.000043 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.11.13-04.19.46:559][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2020.11.13-04.19.46:649][425]LogSavePackage: Moving '../../../../../Documents/UE4GitTest/Project/Saved/FirstPersonExampleMapA5A72D8F84824D7094BC16FD67D5A20B.tmp' to '../../../../../Documents/UE4GitTest/Project/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2020.11.13-04.19.49:057][425]LogSavePackage: Moving '../../../../../Documents/UE4GitTest/Project/Saved/FirstPersonExampleMap_BuiltData64396AE426A643778D6818C3992AFB96.tmp' to '../../../../../Documents/UE4GitTest/Project/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2020.11.13-04.19.49:190][425]AssetCheck: New page: Asset Save: multiple assets
+[2020.11.13-04.19.49:190][425]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2020.11.13-04.19.49:190][425]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
